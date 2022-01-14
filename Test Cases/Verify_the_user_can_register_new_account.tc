@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_the_user_can_register_new_account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11dd2214-cd97-4e0e-aa14-d8567154c86f</testCaseGuid>
+   <variable>
+      <defaultValue>'khanhvo395@gmail.com'</defaultValue>
+      <description></description>
+      <id>eeffffed-78c2-448d-a194-abdb98cf2649</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
